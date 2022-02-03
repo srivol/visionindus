@@ -2,4 +2,4 @@ numpy
 matplotlib
 scikit-image
 scipy
-Pillow==7.1.2
+Pillow>=8.1
